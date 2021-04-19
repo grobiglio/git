@@ -1,0 +1,19 @@
+https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
+
+git init                     | Inicializa un repositorio local
+git add .                    | Agrega todos los archivos al área de intercambio (staging area)
+git commit -m <descripción>  |
+git commit -am <descripción> | 2 comamdos en uno: add + commit
+git status -s                |
+git log --oneline            |
+git commit -- ammend         | abre el editor vim
+git push                     | sube del repositorio local a GitHub
+git pull                     | trae de GitHub al repositorio local
+git tag <nombre> -m "<descripción>"
+git push --tags
+git clone <url>
+git remote add origin <url>
+git branch <nombre de la rama>
+git branch | muestra las ramas del proyecto y la rama en la que me encuentro
+git checkout <nombre de la rama> | para cambiar de rama
+git merge <nombre de la rama> | El merge se debe hacer desde la rama master
