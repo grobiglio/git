@@ -1,5 +1,6 @@
-Libro ProGit -> https://git-scm.com/book/es/v2
+Libro ProGit                            -> https://git-scm.com/book/es/v2
 Curso de Git de pildorasinformaticas.es -> https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
+Ramas "master" y "main"                 -> https://jarv.is/notes/github-rename-master/
 
 git config --list
 git init                                              | Inicializa un repositorio local
@@ -9,7 +10,7 @@ git commit -am <descripción>                          | 2 comamdos en uno: add 
 git status -s                                         |
 git log --oneline                                     |
 git commit -- ammend                                  | Abre el editor Vim
-git push origin master                                | Sube del repositorio local a GitHub
+git push -u origin main                               | Sube del repositorio local a GitHub
 git pull                                              | trae de GitHub al repositorio local
 git tag <nombre> -m "<descripción>"                   |
 git push --tags                                       |
@@ -21,3 +22,4 @@ git checkout <nombre de la rama>                      | Para cambiar de rama
 git merge <nombre de la rama>                         | El merge se debe hacer desde la rama master
 git remote add origin <url del repositorio de GitHub> | Sube un repositorio local
 git push -u origin master                             | Actualiza el repositorio remoto después de las modificaciones en el repositorio local
+git branch -m master main                             | Mover la rama local de master a main
