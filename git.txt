@@ -23,3 +23,5 @@ git merge <nombre de la rama>                         | El merge se debe hacer d
 git remote add origin <url del repositorio de GitHub> | Sube un repositorio local
 git push -u origin master                             | Actualiza el repositorio remoto después de las modificaciones en el repositorio local
 git branch -m master main                             | Mover la rama local de master a main
+
+probando cambio
