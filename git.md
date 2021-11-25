@@ -2,8 +2,11 @@
 
 ## Links de interés
 [Libro ProGit](https://git-scm.com/book/es/v2)
+
 [Curso de Git de pildorasinformaticas.es](https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
+
 [Curso de Git de Fazt](https://youtu.be/HiXLkL42tMU)
+
 [Ramas **master** y **main**](https://jarv.is/notes/github-rename-master/)
 
 ## Principales comandos
