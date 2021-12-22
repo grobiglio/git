@@ -18,8 +18,8 @@
 |git commit -m <descripción>| |
 |git commit -am <descripción>|2 comamdos en uno: add + commit|
 |git status -s| |
+|git log --oneline| |
 
-git log --oneline                                     |
 git commit -- ammend                                  | Abre el editor Vim
 git push -u origin main                               | Sube del repositorio local a GitHub
 git pull                                              | Trae de GitHub al repositorio local
