@@ -21,16 +21,15 @@
 |git log --oneline| |
 |git commit -- ammend|Abre el editor Vim|
 |git push -u origin main|Sube del repositorio local a GitHub|
-
-git pull                                              | Trae de GitHub al repositorio local
-git tag <nombre> -m "<descripción>"                   |
-git push --tags                                       |
-git clone <url>                                       |
-git remote add origin <url>                           |
-git branch <nombre de la rama>                        |
-git branch                                            | Muestra las ramas del proyecto y la rama en la que me encuentro
-git checkout <nombre de la rama>                      | Para cambiar de rama
-git merge <nombre de la rama>                         | El merge se debe hacer desde la rama master
-git remote add origin <url del repositorio de GitHub> | Sube un repositorio local
-git push -u origin master                             | Actualiza el repositorio remoto después de las modificaciones en el repositorio local
-git branch -m master main                             | Mover la rama local de master a main
+|git pull|Trae de GitHub al repositorio local|
+|git tag <nombre> -m "<descripción>"| |
+|git push --tags| |
+|git clone <url>| |
+|git remote add origin <url>| |
+|git branch <nombre de la rama>| |
+|git branch|Muestra las ramas del proyecto y la rama en la que me encuentro|
+|git checkout <nombre de la rama>|Para cambiar de rama|
+|git merge <nombre de la rama>|El merge se debe hacer desde la rama master|
+|git remote add origin <url del repositorio de GitHub>|Sube un repositorio local|
+|git push -u origin main|Actualiza el repositorio remoto después de las modificaciones en el repositorio local|
+|git branch -m master main|Mover la rama local de master a main|
