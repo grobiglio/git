@@ -6,3 +6,4 @@ También lo utilizaré para aprender a editar los archivos .md.
 Dos sitios interesantes de donde aprender Git y GitHub:
 - Libro ProGit -> https://git-scm.com/book/es/v2
 - Curso de Git de pildorasinformaticas.es -> https://youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
+- Curso de Git de HolaMundo -> https://youtu.be/VdGzPZ31ts8
