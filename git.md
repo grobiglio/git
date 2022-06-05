@@ -61,4 +61,5 @@ La gran ventaja de Git Bash es que utiliza los mismos comandos que Linux.
 |cat `nombre de archivo`|Muestra el contenido del archivo.|
 
 [Linux Command Line Cheat Sheet](./davechild_linux-command-line.pdf)
+
 [Atajos](https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
