@@ -1,5 +1,7 @@
 # Resumen de los principales comandos en Git
 
+Los cambios que haga aquí corresponden a los de la rama `prueba`. No se verán en la rama `main`.
+
 ## Links de interés
 [Libro ProGit](https://git-scm.com/book/es/v2)
 
