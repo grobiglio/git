@@ -1,7 +1,5 @@
 # Resumen de los principales comandos en Git
 
-Los cambios que haga aquí corresponden a los de la rama `prueba`. No se verán en la rama `main`.
-
 ## Links de interés
 [Libro ProGit](https://git-scm.com/book/es/v2)
 
@@ -37,7 +35,6 @@ Los cambios que haga aquí corresponden a los de la rama `prueba`. No se verán 
 |git diff --staged|Muestra los cambios de los archivos en la etapa de intercambio.|
 |git log --oneline|Muestra el historial de cambios.|
 |git commit -- ammend|Abre el editor Vim|
-|git push -u origin main|Sube del repositorio local a GitHub|
 |git pull|Trae de GitHub al repositorio local|
 |git tag `nombre` -m "`descripción`"| |
 |git push --tags| |
@@ -48,9 +45,11 @@ Los cambios que haga aquí corresponden a los de la rama `prueba`. No se verán 
 |git checkout -b `nombre de la rama`|Crea la rama cuyo nombre se indica.|
 |git checkout `nombre de la rama`|Cambia a la rama cuyo nombre se indica.|
 |git merge `nombre de la rama`|Trae los cambios desde la rama cuyo nombre se especifica. 👁 El merge se debe hacer desde la rama a la que se quieren traer los cambios, generalmente `main`.|
-|git remote add origin `url del repositorio de GitHub`|Sube un repositorio local|
-|git push -u origin main|Actualiza el repositorio remoto después de las modificaciones en el repositorio local|
-|git branch -m master main|Mover la rama local de master a main|
+|git remote add origin `url del repositorio remoto en GitHub`|Vincula el repositorio local al repositorio remoto cuya url se indica.|
+|git push -u origin main|Crea la rama main en el repositorio remoto debido al parámetro -u. Luego sube el repositorio local al repositorio remoto.|
+|git push -u origin `nombre de la rama`|Crea en el repositorio remoto la rama cuyo nombre se indica. Luego sube el repositorio local al repositorio remoto. Esto debe hacerse desde la rama cuyo nombre se indica.|
+|git push|Actualiza el repositorio remoto con los cambios que hayamos hecho en el repositorio local.|
+|git branch -m master main|Mover la rama local de master a main.|
 
 ## Notas
 La gran ventaja de Git Bash es que utiliza los mismos comandos que Linux.
