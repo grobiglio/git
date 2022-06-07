@@ -11,6 +11,8 @@
 
 [Ramas **master** y **main**](https://jarv.is/notes/github-rename-master/)
 
+[Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 ## Principales comandos
 |Comando|Descripción|
 |-------|-----------|
@@ -50,6 +52,8 @@
 |git push -u origin `nombre de la rama`|Crea en el repositorio remoto la rama cuyo nombre se indica. Luego sube el repositorio local al repositorio remoto. Esto debe hacerse desde la rama cuyo nombre se indica.|
 |git push|Actualiza el repositorio remoto con los cambios que hayamos hecho en el repositorio local.|
 |git branch -m master main|Mover la rama local de master a main.|
+
+[Git Cheat Sheet](./SWTM-2088_Atlassian-Git-Cheatsheet.pdf) que encontré después de confeccionar la tabla 👆
 
 ## Notas
 La gran ventaja de Git Bash es que utiliza los mismos comandos que Linux.

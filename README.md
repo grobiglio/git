@@ -9,3 +9,6 @@ Sitios interesantes de donde aprender Git y GitHub:
 - Curso de Git de HolaMundo 👉 https://youtu.be/VdGzPZ31ts8
 
 La documentación de GitHub se encuentra [aquí](https://docs.github.com/en).
+
+## Mis apuntes
+[Resumen de los principales comandos de Git](./git.md) y otras notas y links de interés.
