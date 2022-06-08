@@ -47,6 +47,7 @@ Los cambios que haga aquí corresponden a los de la rama `prueba`. No se verán 
 |git branch|Muestra las ramas del proyecto y la rama en la que me encuentro.|
 |git checkout -b `nombre de la rama`|Crea la rama cuyo nombre se indica.|
 |git checkout `nombre de la rama`|Cambia a la rama cuyo nombre se indica.|
+|git switch `nombre de la rama`|Al igual que checkout, cambia a la rama cuyo nombre se indica.|
 |git merge `nombre de la rama`|El merge se debe hacer desde la rama master|
 |git remote add origin `url del repositorio de GitHub`|Sube un repositorio local|
 |git push -u origin main|Actualiza el repositorio remoto después de las modificaciones en el repositorio local|
