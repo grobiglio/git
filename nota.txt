@@ -1,0 +1,3 @@
+Los cambios se reflejan en el directorio solamente después de que se haga el commit.
+Antes, da lo mismo en la rama que se trabaje.
+¡Ojo con esto!
