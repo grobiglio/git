@@ -35,14 +35,15 @@
 |git status -s|Muestra el estado actual del repositorio. El `-s` es opcional, depende de como quiera mostrar el estado.|
 |git diff|Muestra las diferencias entre las versiones anteriores y alctuales. NOTA: Se sale de la pantalla presionando la letra u, luego q.|
 |git diff --staged|Muestra los cambios de los archivos en la etapa de intercambio.|
-|git log --oneline|Muestra el historial de cambios.|
+|git log|Muestra el historial de cambios.|
+|git log --oneline|Muestra el historial de cambios en forma resumida.|
 |git commit -- ammend|Abre el editor Vim|
 |git pull|Trae de GitHub al repositorio local|
 |git tag `nombre` -m "`descripción`"| |
 |git push --tags| |
 |git clone `url`|Clona el repositorio remoto en el directorio actual (`pwd` para ver el directorio actual). Al clonar se crea una carpeta cuyo nombre coincide con el del repositorio remoto.|
 |git remote add origin `url`| |
-|git branch `nombre de la rama`| |
+|git branch `nombre de la rama`|Crea una rama con el nombre que se indique. El nombre de la rama NO debe ponerse entre comillas.|
 |git branch|Muestra las ramas del proyecto y la rama en la que me encuentro.|
 |git checkout -b `nombre de la rama`|Crea la rama cuyo nombre se indica.|
 |git checkout `nombre de la rama`|Cambia a la rama cuyo nombre se indica.|

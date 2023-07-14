@@ -1,0 +1,3 @@
+Archivo de prueba en rama prueba 2.
+Este archivo se encuentra en la rama prueba2.
+Lo puedo modificar lo mismo, aunque me encuentre en la rama main.
