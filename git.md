@@ -13,6 +13,8 @@
 
 [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#emoji-cheat-sheet)
+
 ## Principales comandos
 |Comando|Descripción|
 |-------|-----------|
