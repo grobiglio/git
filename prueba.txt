@@ -1,3 +1,5 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt augue eget quam ultricies, id consequat dolor interdum. Suspendisse auctor dictum massa ut sagittis.
 
 Texto agregado para prueba de git en linux.
+
+Más texto agregado desde la web en mi seción de Windows de PC casa.
