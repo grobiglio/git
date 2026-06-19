@@ -55,6 +55,8 @@
 |git push -u origin `nombre de la rama`|Crea en el repositorio remoto la rama cuyo nombre se indica. Luego sube el repositorio local al repositorio remoto. Esto debe hacerse desde la rama cuyo nombre se indica.|
 |git push|Actualiza el repositorio remoto con los cambios que hayamos hecho en el repositorio local.|
 |git branch -m master main|Mover la rama local de master a main.|
+|git remote -v|Para saber si el repositorio usa HTTPS o SSH|
+|git remote set-url origin `git@github.com:USUARIO/REPO.git`|Cambia el repositorio remoto `REPO` del usuario `USUARIO` a de HTTPS a SSH|
 
 [Git Cheat Sheet](./SWTM-2088_Atlassian-Git-Cheatsheet.pdf) que encontré después de confeccionar la tabla 👆
 
